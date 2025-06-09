@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Visitor Count](https://profile-counter.glitch.me/Narayana-Rao/count.svg)
 
 | <a href="https://github.com/Narayana-Rao"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Narayana-Rao&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Narayana-Rao"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narayana-Rao&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -36,3 +37,4 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+
