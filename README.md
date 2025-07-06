@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 <!--![Visitor Count](https://profile-counter.glitch.me/Narayana-Rao/count.svg)-->
 ![](https://komarev.com/ghpvc/?username=Narayana-Rao)
 
-| <a href="https://github.com/Narayana-Rao"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Narayana-Rao&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Narayana-Rao"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narayana-Rao&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<summary><b>Github Stats</b></summary>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Narayana-Rao&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="Narayana-Rao" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Narayana-Rao&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c&theme=highcontrast" alt="Narayana-Rao"/>
 
 <br />
 <br />
