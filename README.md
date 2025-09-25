@@ -1,26 +1,9 @@
-## Hi there 👋
 
-<!--
-**Narayana-Rao/Narayana-Rao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello!
+I am Nārāyaṇa rāo - a passionate Earth observation enthusiast working with **Synthetic Aperture Radar (SAR)** data.
+- 🛰️ I specialize in **Synthetic Aperture Radar (SAR)** data for **Earth observation**.
+- 🤝 Open to **collaborations** on SAR-related projects: whether you're working on research, product development, or data science, let's connect!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--![Visitor Count](https://profile-counter.glitch.me/Narayana-Rao/count.svg)-->
-![](https://komarev.com/ghpvc/?username=Narayana-Rao)
-
-<summary><b>Github Stats</b></summary>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Narayana-Rao&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="Narayana-Rao" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Narayana-Rao&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c&theme=highcontrast" alt="Narayana-Rao"/>
-
-<br />
-<br />
+<p><pre align="center">
+<strong>Bhogapurapu Narayana Rao /</strong> <a href="https://narayana-rao.github.io">Homepage</a> / <a href="https://www.linkedin.com/in/narayanarao-bhogapurapu-072117106/">LinkedIn</a> / <a href="https://www.researchgate.net/profile/Narayana-Bhogapurapu">ResearchGate</a> / <a href="https://github.com/Narayana-Rao">GitHub</a> / <a href="https://scholar.google.com/citations?user=-OryAUsAAAAJ&hl=en">Google Scholar</a></pre></p>
 
